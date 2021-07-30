@@ -1,0 +1,1 @@
+O curso tem sido bastante esclarecedor, os módulos de Git e Metodologias Ágeis me ajudaram a saber mais sobre essas técnicas e otimizar o meu fluxo de trabalho.
